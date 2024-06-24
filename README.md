@@ -1,4 +1,4 @@
-# Incident-handlers-journal-example-template
+# Incident-handlers-journal
 This template serves as a structured format for documenting incident handling activities. It was utilized during practical exercises as part of coursework within the Coursera Google Cybersecurity Professional certificate track.
 
 ## Incident Details
